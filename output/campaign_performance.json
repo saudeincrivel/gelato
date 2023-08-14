@@ -1,0 +1,380 @@
+[
+    {
+        "characteristics": {
+            "offers_sent": {
+                "9b98b8c7a33c4b65b9aebfe6a799e6d9": 1245,
+                "0b1e1539f2cc45b7b9fa7c272da2e1d7": 1297,
+                "2906b810c7d4411798c6938adc9daaa5": 1257,
+                "fafdcd668e3743c1bb461111dcafc2a4": 1318,
+                "4d5c57ea9a6940dd891ad53e9dbe8da0": 1218,
+                "f19421c1d4aa40978ebb69ca19b0e20d": 1263,
+                "2298d6c36e964ae4a3e7e9706d1fb8c2": 1221,
+                "3f207df678b143eea3cee63160fa8bed": 1273,
+                "ae264e3637204a6fb9bb56bc8210ddfd": 1292,
+                "5a8bc65990b245e5a138643cd4eb9837": 1266
+            },
+            "total": 12650
+        },
+        "stats": {
+            "oferta_stats": {
+                "f19421c1d4aa40978ebb69ca19b0e20d": {
+                    "oferta visualizada": 1243,
+                    "oferta concluida": 661
+                },
+                "5a8bc65990b245e5a138643cd4eb9837": {
+                    "oferta visualizada": 1174
+                },
+                "4d5c57ea9a6940dd891ad53e9dbe8da0": {
+                    "oferta visualizada": 1198,
+                    "oferta concluida": 485
+                },
+                "ae264e3637204a6fb9bb56bc8210ddfd": {
+                    "oferta visualizada": 1181,
+                    "oferta concluida": 531
+                },
+                "2906b810c7d4411798c6938adc9daaa5": {
+                    "oferta visualizada": 734,
+                    "oferta concluida": 547
+                },
+                "2298d6c36e964ae4a3e7e9706d1fb8c2": {
+                    "oferta visualizada": 1201,
+                    "oferta concluida": 746
+                },
+                "fafdcd668e3743c1bb461111dcafc2a4": {
+                    "oferta visualizada": 1300,
+                    "oferta concluida": 778
+                },
+                "9b98b8c7a33c4b65b9aebfe6a799e6d9": {
+                    "oferta visualizada": 703,
+                    "oferta concluida": 573
+                },
+                "3f207df678b143eea3cee63160fa8bed": {
+                    "oferta visualizada": 738
+                },
+                "0b1e1539f2cc45b7b9fa7c272da2e1d7": {
+                    "oferta visualizada": 471,
+                    "oferta concluida": 337
+                }
+            },
+            "oferta visualizada": 9943,
+            "transacao": 25923,
+            "soma_valor": 327292.94999999733,
+            "oferta concluida": 4658
+        }
+    },
+    {
+        "characteristics": {
+            "offers_sent": {
+                "2906b810c7d4411798c6938adc9daaa5": 1270,
+                "9b98b8c7a33c4b65b9aebfe6a799e6d9": 1296,
+                "5a8bc65990b245e5a138643cd4eb9837": 1270,
+                "4d5c57ea9a6940dd891ad53e9dbe8da0": 1240,
+                "ae264e3637204a6fb9bb56bc8210ddfd": 1319,
+                "f19421c1d4aa40978ebb69ca19b0e20d": 1263,
+                "2298d6c36e964ae4a3e7e9706d1fb8c2": 1250,
+                "0b1e1539f2cc45b7b9fa7c272da2e1d7": 1245,
+                "3f207df678b143eea3cee63160fa8bed": 1266,
+                "fafdcd668e3743c1bb461111dcafc2a4": 1250
+            },
+            "total": 12669
+        },
+        "stats": {
+            "oferta_stats": {
+                "9b98b8c7a33c4b65b9aebfe6a799e6d9": {
+                    "oferta visualizada": 790,
+                    "oferta concluida": 699
+                },
+                "2298d6c36e964ae4a3e7e9706d1fb8c2": {
+                    "oferta visualizada": 1237,
+                    "oferta concluida": 820
+                },
+                "4d5c57ea9a6940dd891ad53e9dbe8da0": {
+                    "oferta visualizada": 1226,
+                    "oferta concluida": 541
+                },
+                "fafdcd668e3743c1bb461111dcafc2a4": {
+                    "oferta visualizada": 1239,
+                    "oferta concluida": 914
+                },
+                "2906b810c7d4411798c6938adc9daaa5": {
+                    "oferta concluida": 628,
+                    "oferta visualizada": 750
+                },
+                "0b1e1539f2cc45b7b9fa7c272da2e1d7": {
+                    "oferta visualizada": 489,
+                    "oferta concluida": 590
+                },
+                "f19421c1d4aa40978ebb69ca19b0e20d": {
+                    "oferta visualizada": 1248,
+                    "oferta concluida": 692
+                },
+                "5a8bc65990b245e5a138643cd4eb9837": {
+                    "oferta visualizada": 1174
+                },
+                "ae264e3637204a6fb9bb56bc8210ddfd": {
+                    "oferta visualizada": 1208,
+                    "oferta concluida": 625
+                },
+                "3f207df678b143eea3cee63160fa8bed": {
+                    "oferta visualizada": 743
+                }
+            },
+            "oferta visualizada": 10104,
+            "transacao": 29372,
+            "soma_valor": 371083.91999999987,
+            "oferta concluida": 5509
+        }
+    },
+    {
+        "characteristics": {
+            "offers_sent": {
+                "0b1e1539f2cc45b7b9fa7c272da2e1d7": 1322,
+                "3f207df678b143eea3cee63160fa8bed": 1279,
+                "2906b810c7d4411798c6938adc9daaa5": 1263,
+                "4d5c57ea9a6940dd891ad53e9dbe8da0": 1280,
+                "2298d6c36e964ae4a3e7e9706d1fb8c2": 1301,
+                "ae264e3637204a6fb9bb56bc8210ddfd": 1245,
+                "fafdcd668e3743c1bb461111dcafc2a4": 1243,
+                "5a8bc65990b245e5a138643cd4eb9837": 1256,
+                "9b98b8c7a33c4b65b9aebfe6a799e6d9": 1275,
+                "f19421c1d4aa40978ebb69ca19b0e20d": 1247
+            },
+            "total": 12711
+        },
+        "stats": {
+            "oferta_stats": {
+                "3f207df678b143eea3cee63160fa8bed": {
+                    "oferta visualizada": 625
+                },
+                "ae264e3637204a6fb9bb56bc8210ddfd": {
+                    "oferta visualizada": 999,
+                    "oferta concluida": 430
+                },
+                "5a8bc65990b245e5a138643cd4eb9837": {
+                    "oferta visualizada": 1016
+                },
+                "2298d6c36e964ae4a3e7e9706d1fb8c2": {
+                    "oferta visualizada": 1169,
+                    "oferta concluida": 581
+                },
+                "9b98b8c7a33c4b65b9aebfe6a799e6d9": {
+                    "oferta visualizada": 573,
+                    "oferta concluida": 450
+                },
+                "4d5c57ea9a6940dd891ad53e9dbe8da0": {
+                    "oferta visualizada": 1168,
+                    "oferta concluida": 435
+                },
+                "fafdcd668e3743c1bb461111dcafc2a4": {
+                    "oferta visualizada": 1125,
+                    "oferta concluida": 651
+                },
+                "f19421c1d4aa40978ebb69ca19b0e20d": {
+                    "oferta visualizada": 1121,
+                    "oferta concluida": 537
+                },
+                "2906b810c7d4411798c6938adc9daaa5": {
+                    "oferta visualizada": 591,
+                    "oferta concluida": 380
+                },
+                "0b1e1539f2cc45b7b9fa7c272da2e1d7": {
+                    "oferta visualizada": 376,
+                    "oferta concluida": 349
+                }
+            },
+            "oferta visualizada": 8763,
+            "transacao": 14481,
+            "soma_valor": 181664.07000000044,
+            "oferta concluida": 3813
+        }
+    },
+    {
+        "characteristics": {
+            "offers_sent": {
+                "fafdcd668e3743c1bb461111dcafc2a4": 1222,
+                "9b98b8c7a33c4b65b9aebfe6a799e6d9": 1274,
+                "ae264e3637204a6fb9bb56bc8210ddfd": 1278,
+                "5a8bc65990b245e5a138643cd4eb9837": 1293,
+                "2298d6c36e964ae4a3e7e9706d1fb8c2": 1274,
+                "4d5c57ea9a6940dd891ad53e9dbe8da0": 1308,
+                "3f207df678b143eea3cee63160fa8bed": 1275,
+                "2906b810c7d4411798c6938adc9daaa5": 1335,
+                "f19421c1d4aa40978ebb69ca19b0e20d": 1250,
+                "0b1e1539f2cc45b7b9fa7c272da2e1d7": 1269
+            },
+            "total": 12778
+        },
+        "stats": {
+            "oferta_stats": {
+                "fafdcd668e3743c1bb461111dcafc2a4": {
+                    "oferta visualizada": 1193,
+                    "oferta concluida": 890
+                },
+                "ae264e3637204a6fb9bb56bc8210ddfd": {
+                    "oferta visualizada": 1133,
+                    "oferta concluida": 717
+                },
+                "2298d6c36e964ae4a3e7e9706d1fb8c2": {
+                    "oferta visualizada": 1225,
+                    "oferta concluida": 1003
+                },
+                "4d5c57ea9a6940dd891ad53e9dbe8da0": {
+                    "oferta visualizada": 1279,
+                    "oferta concluida": 639
+                },
+                "9b98b8c7a33c4b65b9aebfe6a799e6d9": {
+                    "oferta visualizada": 693,
+                    "oferta concluida": 885
+                },
+                "f19421c1d4aa40978ebb69ca19b0e20d": {
+                    "oferta visualizada": 1208,
+                    "oferta concluida": 834
+                },
+                "0b1e1539f2cc45b7b9fa7c272da2e1d7": {
+                    "oferta concluida": 647,
+                    "oferta visualizada": 446
+                },
+                "2906b810c7d4411798c6938adc9daaa5": {
+                    "oferta visualizada": 706,
+                    "oferta concluida": 861
+                },
+                "5a8bc65990b245e5a138643cd4eb9837": {
+                    "oferta visualizada": 1120
+                },
+                "3f207df678b143eea3cee63160fa8bed": {
+                    "oferta visualizada": 660
+                }
+            },
+            "oferta visualizada": 9663,
+            "transacao": 22057,
+            "soma_valor": 280234.12999999855,
+            "oferta concluida": 6476
+        }
+    },
+    {
+        "characteristics": {
+            "offers_sent": {
+                "2298d6c36e964ae4a3e7e9706d1fb8c2": 1286,
+                "3f207df678b143eea3cee63160fa8bed": 1229,
+                "f19421c1d4aa40978ebb69ca19b0e20d": 1305,
+                "0b1e1539f2cc45b7b9fa7c272da2e1d7": 1258,
+                "fafdcd668e3743c1bb461111dcafc2a4": 1283,
+                "9b98b8c7a33c4b65b9aebfe6a799e6d9": 1261,
+                "ae264e3637204a6fb9bb56bc8210ddfd": 1248,
+                "4d5c57ea9a6940dd891ad53e9dbe8da0": 1310,
+                "5a8bc65990b245e5a138643cd4eb9837": 1238,
+                "2906b810c7d4411798c6938adc9daaa5": 1286
+            },
+            "total": 12704
+        },
+        "stats": {
+            "oferta_stats": {
+                "2298d6c36e964ae4a3e7e9706d1fb8c2": {
+                    "oferta visualizada": 1182,
+                    "oferta concluida": 821
+                },
+                "f19421c1d4aa40978ebb69ca19b0e20d": {
+                    "oferta visualizada": 1184,
+                    "oferta concluida": 661
+                },
+                "5a8bc65990b245e5a138643cd4eb9837": {
+                    "oferta visualizada": 1000
+                },
+                "fafdcd668e3743c1bb461111dcafc2a4": {
+                    "oferta visualizada": 1182,
+                    "oferta concluida": 794
+                },
+                "4d5c57ea9a6940dd891ad53e9dbe8da0": {
+                    "oferta visualizada": 1184,
+                    "oferta concluida": 538
+                },
+                "0b1e1539f2cc45b7b9fa7c272da2e1d7": {
+                    "oferta concluida": 562,
+                    "oferta visualizada": 367
+                },
+                "3f207df678b143eea3cee63160fa8bed": {
+                    "oferta visualizada": 591
+                },
+                "ae264e3637204a6fb9bb56bc8210ddfd": {
+                    "oferta visualizada": 1012,
+                    "oferta concluida": 561
+                },
+                "2906b810c7d4411798c6938adc9daaa5": {
+                    "oferta concluida": 664,
+                    "oferta visualizada": 610
+                },
+                "9b98b8c7a33c4b65b9aebfe6a799e6d9": {
+                    "oferta visualizada": 626,
+                    "oferta concluida": 721
+                }
+            },
+            "oferta visualizada": 8938,
+            "transacao": 16588,
+            "soma_valor": 217250.81000000017,
+            "oferta concluida": 5322
+        }
+    },
+    {
+        "characteristics": {
+            "offers_sent": {
+                "fafdcd668e3743c1bb461111dcafc2a4": 1281,
+                "5a8bc65990b245e5a138643cd4eb9837": 1295,
+                "4d5c57ea9a6940dd891ad53e9dbe8da0": 1237,
+                "0b1e1539f2cc45b7b9fa7c272da2e1d7": 1277,
+                "ae264e3637204a6fb9bb56bc8210ddfd": 1276,
+                "2298d6c36e964ae4a3e7e9706d1fb8c2": 1314,
+                "f19421c1d4aa40978ebb69ca19b0e20d": 1243,
+                "3f207df678b143eea3cee63160fa8bed": 1295,
+                "2906b810c7d4411798c6938adc9daaa5": 1221,
+                "9b98b8c7a33c4b65b9aebfe6a799e6d9": 1326
+            },
+            "total": 12765
+        },
+        "stats": {
+            "oferta_stats": {
+                "2298d6c36e964ae4a3e7e9706d1fb8c2": {
+                    "oferta visualizada": 1323,
+                    "oferta concluida": 1185
+                },
+                "5a8bc65990b245e5a138643cd4eb9837": {
+                    "oferta visualizada": 1203
+                },
+                "0b1e1539f2cc45b7b9fa7c272da2e1d7": {
+                    "oferta visualizada": 514,
+                    "oferta concluida": 935
+                },
+                "4d5c57ea9a6940dd891ad53e9dbe8da0": {
+                    "oferta visualizada": 1243,
+                    "oferta concluida": 693
+                },
+                "9b98b8c7a33c4b65b9aebfe6a799e6d9": {
+                    "oferta concluida": 1026,
+                    "oferta visualizada": 786
+                },
+                "f19421c1d4aa40978ebb69ca19b0e20d": {
+                    "oferta visualizada": 1260,
+                    "oferta concluida": 911
+                },
+                "fafdcd668e3743c1bb461111dcafc2a4": {
+                    "oferta concluida": 1290,
+                    "oferta visualizada": 1288
+                },
+                "2906b810c7d4411798c6938adc9daaa5": {
+                    "oferta concluida": 937,
+                    "oferta visualizada": 727
+                },
+                "ae264e3637204a6fb9bb56bc8210ddfd": {
+                    "oferta visualizada": 1183,
+                    "oferta concluida": 824
+                },
+                "3f207df678b143eea3cee63160fa8bed": {
+                    "oferta visualizada": 787
+                }
+            },
+            "oferta visualizada": 10314,
+            "transacao": 30532,
+            "soma_valor": 397926.08999999845,
+            "oferta concluida": 7801
+        }
+    }
+]

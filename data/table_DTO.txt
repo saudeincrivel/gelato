@@ -1,0 +1,35 @@
+I have 3 bases of data : 
+
+offers, clients and offer_events
+
+
+table_offers  ( id, offer_type, sending_channel, minimum_buy_in, reward, duration)
+description of the fields : 
+
+id : integer identifying  the offer.
+offer_type : it can be of three types :'informative', 'discount' and 'buy 1 take 2'.
+sending_channel : it can be of 4 types: 'email', 'web', 'phone', 'social network'.
+minimum_buy_in : its the minimum purchase value for the client to participate in the offer.
+reward: points the client gets in an internal pontuation system for taking part in the offer.
+duration: how long will the offer last in days.
+
+
+table_clients  ( id, gender, age, member_since, anual_income)
+id : integer identifying the client.
+gender: gender of client , can be male/female
+age: age of the client in years
+member_since : date the client first made a purchase.
+anual_income : declared income of the client.
+
+
+table_offer_events (id_offer, id_client, event_type, time_elapsed)
+
+id_offer: id of the offer the event is related to
+id_client: id of the client which triggered the event
+event_type: it can be one of the following types : 'transaction', 'offer received', 'offer visualized', 'offer finalized'.
+time_elapsed: time elapsed since the offer was sent
+
+
+how to better segment the clients so as to optimize the market campaings. 
+what algorithms to use, what properties to take into consideration and so on..
+create a selling strategy and promotion based on the information provided.
