@@ -5,7 +5,8 @@ app = FastAPI()
 origins = [
     "http://localhost",
     "http://localhost:3000",
-    "*"
+    "*",
+    "http://s3-gelato-front-end.s3-website-sa-east-1.amazonaws.com/",
 ]
 
 app.add_middleware(

@@ -18,7 +18,8 @@ def readFile(file_path):
 
 # 
 def get_campaign_performance_data():
-    data = readFile(campaign_performance_output_path)
+    camp_performance_file = './output/campaign_performance.json';
+    data = readFile(camp_performance_file)
     return data;
 
 # 
